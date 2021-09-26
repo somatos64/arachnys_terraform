@@ -1,0 +1,9 @@
+**/.terraform*
+**/crash*
+**/plan.out
+**/plan.json
+**/terraform.tfstate.backup
+**/terraform.tfstate
+notes.txt
+**/.DS_Store
+.idea
